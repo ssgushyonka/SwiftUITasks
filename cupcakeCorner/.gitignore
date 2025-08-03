@@ -1,0 +1,51 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace
+*.xcuserstate
+*.xcscmblueprint
+
+# User-specific
+*.xcuserdatad/
+*.swp
+*.swo
+
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Archives
+*.xcarchive
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# macOS specific
+.DS_Store
+
+# SwiftPM Xcode project files
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Old iOS device support files
+DeviceSupport/
+
+# Simulator logs
+*.simruntime
+
+# Xcode Previews cache
+*.preview-thumbnails
